@@ -1,10 +1,11 @@
- Salary Prediction App
-📌 Overview
+#Salary Prediction App
+
+##Overview
 
 The Salary Prediction App is a machine learning–powered web application built with Streamlit.
 It predicts employee salaries based on Years of Experience and Job Rate using a Random Forest Regressor trained on historical data.
 
-🚀 Features
+##Features
 
 Simple and intuitive web interface
 
@@ -20,7 +21,7 @@ Fun visual feedback (st.balloons()) when predictions are made
 
 Nicely formatted salary output with a dollar sign and commas
 
-🛠 Technologies Used
+## Technologies Used
 
 Python 3
 
